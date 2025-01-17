@@ -7,8 +7,8 @@ This project provides a detailed guide for integrating Wazuh, an open-source cyb
 
 ## **Table of Contents**
 
-1. [Prerequisites](https://github.com/DanielCyberSoc/wazuh-siem-threat-on-azure/edit/main/README.md#1-prerequisites)
-2. [Virtual Machines Setup](https://github.com/DanielCyberSoc/wazuh-siem-threat-on-azure/edit/main/README.md#2-virtual-machines-setup)
+1. [Prerequisites](#1-prerequisites)
+2. [Virtual Machines Setup](#2-virtual-machines-setup)
     - [Linux VM (Wazuh Manager)](#linux-vm-wazuh-manager)
     - [Windows VM (Wazuh Agent)](#windows-vm-wazuh-agent)
 3. [Wazuh Installation](#wazuh-installation)
