@@ -109,11 +109,11 @@ To complete this project, you’ll need:
    ![Remote Desktop Connection](https://github.com/user-attachments/assets/d1f5545c-934c-435f-8232-915b228e07a6)
 3. Access the Wazuh Dashboard via the correct Private IP address
    - Go to Linux VM and copy the Private IP address
-   - Open web browser in Windows VM > https://<PrivateIPaddress>
+   - Open web browser in Windows VM > https://< PrivateIPaddress >
    
    ![image](https://github.com/user-attachments/assets/5d042d4e-beac-4054-88b1-ae97f9e74a1e)
 
-   - Click Advanced > Continue to <PrivateIPAddress>
+   - Click Advanced > Continue to < yourPrivateIPAddress >
    
    ![image](https://github.com/user-attachments/assets/db3b1d25-9c90-49c8-bf71-b8d2d542c597)
 
